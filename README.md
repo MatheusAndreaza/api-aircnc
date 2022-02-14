@@ -1,4 +1,4 @@
-# Api AirCnC
+# Api AirCnC (semana-omnistack)
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAndreaza/Biblioteca-agil-/blob/master/LICENSE) 
 
 # Sobre o projeto
